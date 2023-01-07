@@ -1,4 +1,4 @@
-# Management System of Ortopedical Histories
+#Medical Records, a Ortopedical Records Management System 
 
 English: Management System of Ortopedical Histories (Spanish Eviroment).
 
