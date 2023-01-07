@@ -1,0 +1,35 @@
+
+
+body {
+ margin-top:0px;
+   background-color : #E2FFA2;
+  }
+.copyr {
+  color : #3C9F26;
+    font-family : Verdana;
+    font-size : 10px;
+    top : 2px;
+    vertical-align : bottom;
+}
+
+
+
+.header {
+    border-bottom-color : #96D075;
+    border-bottom-style : solid;
+    border-bottom-width : 2px;
+  }
+
+	#main
+	{
+		padding: 20px;
+		width: 90%;
+ 			
+	}
+	.border
+	{
+	
+		padding: 10px;
+		border: 1px solid #B0B0B0;
+		background-color: #ffffff;
+	}

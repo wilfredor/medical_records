@@ -1,0 +1,1 @@
+<INPUT name="12ATM" value="<? echo $f['12ATM']; ?>" class="l2" size="106" maxlength="106"><br class="esp">

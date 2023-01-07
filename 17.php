@@ -1,0 +1,1 @@
+<INPUT name="17radiografico" value="<? echo $f['17radiografico']; ?>" class="l2" size="106" maxlength="106">
